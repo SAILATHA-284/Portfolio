@@ -88,7 +88,7 @@ card(
 
 card(
     title="Whatsapp Bot | Selenium web driver automation",
-    body=""" Built a whatsapp bot to automate cold texting clients through a whatsapp web using selenium web driver"""
+    body=""" Built a whatsapp bot to automate cold texting clients through whatsapp web using selenium web driver"""
 )
 
 # =========================
