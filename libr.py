@@ -142,8 +142,8 @@ card(
 card(
     title="Academic scores",
     body="""B-TECH Computer Engineering minor in Data Science: 9.6 cgpa,
-    12th Grade, Percentage: 87.5%,
-    10th Grade, Percentage: 97%
+    12th Grade-Percentage: 87.5%,
+    10th Grade-Percentage: 97%
 """
 )
 
