@@ -122,11 +122,6 @@ card(
     body=""" shettysailatha@gmail.com
 """
 )
-card(
-    title="Phone number",
-    body=""" 9867211404
-"""
-)
 
 card(
     title="GITHUB",
