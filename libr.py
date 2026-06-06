@@ -65,7 +65,7 @@ achieved high accuracy with 1 of 5 items purchased (leave-one-out validated)."""
 )
 
 card(
-    title="Satya Sethu- Bridge to the Truth| Python, OpenCV, Huggingface Transformers, NLP",
+    title="Satya Sethu- Bridge to the Truth| Python, Flask, React-Native, Hugging Face Transformers (RoBERTa), PyTorch, NLTK, Tesseract OCR, Pillow, BeautifulSoup, Newspaper3k, Cloudinary, SerpAPI, NewsAPI, and GNews API",
     body="""Developed a fake news detection webapp with an accuracy of 91%. The webapp handles multimedia inputs like texts, images,
     news urls, ocr scanning and predicts if the news is fake using Natural Language Processing as well as verification with news APIS and reverse image searching.
     It also displays and updates the real time verified news for the users."""
@@ -73,7 +73,7 @@ card(
 
 card(
     title="Sach-AI | Python, React, Tailwind CSS, Flask, Twitter APIv2",
-    body="""Developed a fake Twitter account detection web app. Fetched real-time Twitter data using Twitter APIv2. Used three models—Random Forest, KNN, and Linear SVC—to classify Twitter accounts with 83% accuracy. Supports a browser extension where users can report fake accounts in real time. AI assistant flags potential red flags"""
+    body="""Developed a fake Twitter account detection web app. Fetched real-time Twitter data using Twitter APIv2. Used three models—Random Forest, KNN, and Linear SVC—to classify Twitter accounts with 83% accuracy. Supports a browser extension where users can report fake accounts in real time. AI assistant flags potential red flags."""
 )
 
 card(
