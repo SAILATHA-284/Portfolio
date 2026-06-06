@@ -24,8 +24,7 @@ text("I am Sailatha Shetty, B.Tech 2026 graduate from Ramrao Adik Institute of T
 
 card(
     title="Techstacks",
-    body=""" SAP S/4 Hana Sourcing and Procurement, React, Spring Boot (Java), Express.js (Node.js), Django (Python), FastAPI (Python), PostgreSQL, MySQL, MongoDB, Firebase, Tailwind CSS
-MERN Stack, AI/ML Stack, Java Enterprise Stack
+    body=""" SAP S/4 Hana Sourcing and Procurement, React, Spring Boot, Express.js , FastAPI , PostgreSQL, MySQL, MongoDB, Firebase, Tailwind CSS, MERN Stack, AI/ML Stack, Java Enterprise Stack
 """
 )
 heading("Copyrights filed", level=2)
@@ -89,7 +88,7 @@ card(
 
 card(
     title="Whatsapp Bot | Selenium web driver automation",
-    body=""" Built a whatsapp bot for a freelancer to automate cold texting clients through a whatsapp bot using selenium web driver"""
+    body=""" Built a whatsapp bot to automate cold texting clients through a whatsapp bot using selenium web driver"""
 )
 
 # =========================
@@ -98,7 +97,7 @@ card(
 
 page("IndustryExperiences")
 
-heading("EY GDS Internship Program")
+heading("EY GDS Internship")
 
 card(
     title="4 months Hybrid internship",
