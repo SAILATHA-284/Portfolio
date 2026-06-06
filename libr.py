@@ -57,7 +57,7 @@ heading("Projects", level=1)
 text("Overview of projects")
 
 card(
-    title="Artsy-Social| Mongo DB, React js, Express js, Node js, Python, Sklearn",
+    title="Artsy-Social| Mongo DB, React js, Express js, Node js, Python",
     body="""Developed a MERN + AI/ML stack eCommerce web app exclusively for artists, implementing JWT authentication, profile management,
 product uploads, cart, orders, and secure payment integration. Integrated a real-time hybrid recommendation engine (content-based + collaborative filtering) with FastAPI, MongoDB, and
 scikit-learn, enabling continuous learning from streaming user order data to produce dynamic top-5 product recommendations;
